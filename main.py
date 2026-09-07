@@ -370,7 +370,7 @@ def build_ui():
         gr.Markdown(
             "---\n"
             "<div class='footer'>"
-            "👨‍💻 **Developer:** @kzr0x  |  📢 **Channel:** @api_wallah"
+            "👨‍💻 **Developer:** @marshelp01  |  📢 **Channel:** @ixmods"
             "</div>",
             elem_classes="footer"
         )
