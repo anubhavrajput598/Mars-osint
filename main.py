@@ -195,7 +195,7 @@ def root():
         "index_source": INDEX_SOURCE,
         "columns": SEARCH_FIELDS,
         "docs": "/docs",
-        "developer": "@kzr0x | channel @api_wallah",   # <-- credit added
+        "developer": "@marshelp01 | channel @ixmods",   # <-- credit added
     }
 
 
